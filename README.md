@@ -53,17 +53,19 @@ Japanase > "In Progress"
 
 ## Knowledge gathering groups
 
-- |
+- [softwaretesting - Reddit](https://www.reddit.com/r/softwaretesting/)
+- [QualityAssurance - Reddit](https://www.reddit.com/r/QualityAssurance/)
 
 ## Followed blogs
 
 - [testerzy.pl](https://testerzy.pl/)
-
+- [niebezpiecznik.pl](https://niebezpiecznik.pl/category/all/)
+- [Global App Testing](https://www.globalapptesting.com/blog)
 ---
 
 ## My Documentation / Projects
 
-- [Project Kapu$ta GoIT]()
+- [Project Kapu$ta GoIT](https://docs.google.com/presentation/d/1mI2gYD8hxeG48YpJR8fsb2fenCQOM9BH/edit?usp=sharing&ouid=113173033041272762957&rtpof=true&sd=true)
 
 ## Statistics
 
