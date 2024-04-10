@@ -7,8 +7,6 @@ comfort of others by improving the quality level of apps and other developing so
 I have diverse interests and passions, and I am always willing to explore new ones further,
 which helps me work better as a QA Engineer.
 
----
-
 ## Tech Stack
 
 - Jira
@@ -26,55 +24,26 @@ which helps me work better as a QA Engineer.
 
 ### GoIT
 
-- GoIT - Automated Quality Assurance Engineer 
-> - "Awaiting Start"
+**GoIT - Automated Quality Assurance Engineer** 
+  - "In Progress"
+    > JavaScript, Cypress, E2E tests, UI tests, HTTP API tests, Performance testing, CI/CD, BDD testing
 
-- GoIT - Manual Quality Assurance Engineer
-> - "Completed!"
-> |Jira, Trello, TestRail, Qase, Postman, MySQL, XML, JSON, Git|
+**GoIT - Manual Quality Assurance Engineer**
+  - "Completed!" 
+    > Certificate ID:
+    > [**25435**](https://drive.google.com/file/d/1YSF7cdC86hxwpAVeqwzIRy5GSEhfZyM_/view?usp=sharing)</br>
+    > Jira, Trello, TestRail, Qase, Postman, MySQL, XML, JSON, Git
 
 ### W3Schools:
 
 - Cyber Security 
-> - "In progress"
+  - "In progress"
 
 - XML 
-> - "Planning"
+  - "Planning"
 
 - MySQL 
-> - "Planning"
-
-### Language improvement:
-
-Duolingo:
-- Japanase 
-> - "In Progress"
-
----
-
-## Technical Bookshelf
-
-- _"Pasja Testowania Wydanie II rozszerzone"_ - Krzysztof Jadczyk 
-> - "In Progress"
-
-- _"Przygody testera Zigiego"_ - Rafał Kubik
-> - "Planning"
-
-- _"Certyfikowany tester ISTQB®. Poziom podstawowy, Wydanie II"_ - Adam Roman, Lucjan Stapp, Michaël Pilaeten 
-> - "Planning"
-
-## Knowledge gathering groups
-
-- [softwaretesting - Reddit](https://www.reddit.com/r/softwaretesting/)
-- [QualityAssurance - Reddit](https://www.reddit.com/r/QualityAssurance/)
-
-## Followed blogs
-
-- [testerzy.pl](https://testerzy.pl/)
-- [niebezpiecznik.pl](https://niebezpiecznik.pl/category/all/)
-- [Global App Testing](https://www.globalapptesting.com/blog)
-
----
+  - "Planning"
 
 ## My Projects & Examples of Work Products
 
@@ -102,10 +71,32 @@ Duolingo:
 
 - [TestRail - Example Online Accounting Test Cases |PL|](https://drive.google.com/file/d/1JClCLc58rECJ4_FXpU4vp083N-MOQrjR/view?usp=sharing)
 
-##Statistics
+## Self improvement:
 
-Test Cases: 
-> 59
+### Languages
 
-Bug Reports: 
-> 44
+Duolingo:
+- Japanase 
+  - "In Progress"
+
+### Technical Bookshelf
+
+- _"Pasja Testowania Wydanie II rozszerzone"_ - Krzysztof Jadczyk 
+  - "In Progress"
+
+- _"Przygody testera Zigiego"_ - Rafał Kubik
+  - "Planning"
+
+- _"Certyfikowany tester ISTQB®. Poziom podstawowy, Wydanie II"_ - Adam Roman, Lucjan Stapp, Michaël Pilaeten 
+  - "Planning"
+
+### Knowledge gathering groups
+
+- [softwaretesting - Reddit](https://www.reddit.com/r/softwaretesting/)
+- [QualityAssurance - Reddit](https://www.reddit.com/r/QualityAssurance/)
+
+### Followed blogs
+
+- [Global App Testing](https://www.globalapptesting.com/blog)
+- [testerzy.pl](https://testerzy.pl/)
+- [niebezpiecznik.pl](https://niebezpiecznik.pl/category/all/)
