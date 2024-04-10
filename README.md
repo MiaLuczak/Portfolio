@@ -24,7 +24,7 @@ which helps me work better as a QA Engineer.
 
 ### GoIT
 
-**GoIT - Automated Quality Assurance Engineer** 
+**GoIT - Automation Quality Assurance Engineer** 
   - "In Progress"
     > JavaScript, Cypress, E2E tests, UI tests, HTTP API tests, Performance testing, CI/CD, BDD testing
 
