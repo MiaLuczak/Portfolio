@@ -7,6 +7,8 @@ comfort of others by improving the quality level of apps and other developing so
 I have diverse interests and passions, and I am always willing to explore new ones further,
 which helps me work better as a QA Engineer.
 
+[My Resume](https://drive.google.com/file/d/1bMTUV6jLFu7zVNd3j-O39Ja3mNe8oKx0/view?usp=sharing)
+
 ## Tech Stack
 
 - Jira
@@ -57,7 +59,7 @@ which helps me work better as a QA Engineer.
 
 - [Samsung Web Store - Bug Report | Reported |PL|](https://drive.google.com/file/d/1XWWcqAtT4UEAA0DBMUl0HA7EFT78KHE2/view?usp=sharing)
 
-### Pratice
+### Practice
 
 - [Skype - Bug Report | Practice |PL|](https://drive.google.com/file/d/1cTX439NJNxUpervl1Vsk_jZ2U-i8tBB-/view?usp=sharing)
 
