@@ -55,7 +55,7 @@ which helps me work better as a QA Engineer.
 
 - [Discord - Bug Report | Reported |PL|](https://drive.google.com/file/d/1XvZAP7MohiaUTo_Bg_8UtlzFPbtCZQTo/view?usp=sharing)
 
-- [Samsung Web Store - Bug Report | Reported |PL|]()
+- [Samsung Web Store - Bug Report | Reported |PL|](https://drive.google.com/file/d/1XWWcqAtT4UEAA0DBMUl0HA7EFT78KHE2/view?usp=sharing)
 
 ### Pratice
 
