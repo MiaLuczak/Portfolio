@@ -38,14 +38,8 @@ which helps me work better as a QA Engineer.
 
 ### W3Schools:
 
-- Cyber Security 
-  - "In progress"
-
-- XML 
-  - "Planning"
-
-- MySQL 
-  - "Planning"
+- JavaScript
+	- "In Progress"
 
 ## My Projects & Examples of Work Products
 
@@ -84,7 +78,7 @@ Duolingo:
 ### Technical Bookshelf
 
 - _"Pasja Testowania Wydanie II rozszerzone"_ - Krzysztof Jadczyk 
-  - "In Progress"
+  - "Completed!"
 
 - _"Przygody testera Zigiego"_ - Rafał Kubik
   - "Planning"
