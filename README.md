@@ -50,27 +50,27 @@ which helps me work better as a QA Engineer.
 
 ### Projects
 
-- [Project_Kapu$ta_GoIT |EN|](https://github.com/MioLuczak/Project_Kapusta)
+- [|EN| Project_Kapu$ta_GoIT](https://github.com/MioLuczak/Project_Kapusta)
 
 ### Reported bugs
 
-- [Discord - Bug Report | Reported |PL|](https://drive.google.com/file/d/1XvZAP7MohiaUTo_Bg_8UtlzFPbtCZQTo/view?usp=sharing)
+- [|PL| Discord - Bug Report | Reported](https://drive.google.com/file/d/1XvZAP7MohiaUTo_Bg_8UtlzFPbtCZQTo/view?usp=sharing)
 
-- [Samsung Web Store - Bug Report | Reported |PL|](https://drive.google.com/file/d/1XWWcqAtT4UEAA0DBMUl0HA7EFT78KHE2/view?usp=sharing)
+- [|PL| Samsung Web Store - Bug Report | Reported](https://drive.google.com/file/d/1XWWcqAtT4UEAA0DBMUl0HA7EFT78KHE2/view?usp=sharing)
 
 ### Practice
 
-- [Skype - Bug Report | Practice |PL|](https://drive.google.com/file/d/1cTX439NJNxUpervl1Vsk_jZ2U-i8tBB-/view?usp=sharing)
+- [|PL| Skype - Bug Report | Practice](https://drive.google.com/file/d/1cTX439NJNxUpervl1Vsk_jZ2U-i8tBB-/view?usp=sharing)
 
-- [Documentation testing - Listboxer |PL|](https://drive.google.com/file/d/1PprvSo00JEdhbnH-JI3lmyBRr5kXg8Cm/view?usp=sharing)
+- [|PL| Documentation testing - Listboxer](https://drive.google.com/file/d/1PprvSo00JEdhbnH-JI3lmyBRr5kXg8Cm/view?usp=sharing)
 
-- [Slack - Smoke testing | Checklist |PL|](https://drive.google.com/file/d/17KsqaMVbRkSUB3Ycgcq5mSEek28pV4J5/view?usp=sharing)
+- [|PL| Slack - Smoke testing | Checklist](https://drive.google.com/file/d/17KsqaMVbRkSUB3Ycgcq5mSEek28pV4J5/view?usp=sharing)
 
-- [Media Markt Web Application - Smoke testing |PL|](https://drive.google.com/file/d/1UHNS3ZyM4gA_RXm4md-C9ZzCCvCe9aBZ/view?usp=sharing)
+- [|PL| Media Markt Web Application - Smoke testing](https://drive.google.com/file/d/1UHNS3ZyM4gA_RXm4md-C9ZzCCvCe9aBZ/view?usp=sharing)
 
-- [Jira - Overview of some Bug Reports |PL|](https://drive.google.com/file/d/18Xb20MpS3FSver5dtjE-_Jt_xVKxic-r/view?usp=sharing)
+- [|PL| Jira - Overview of some Bug Reports](https://drive.google.com/file/d/18Xb20MpS3FSver5dtjE-_Jt_xVKxic-r/view?usp=sharing)
 
-- [TestRail - Example Online Accounting Test Cases |PL|](https://drive.google.com/file/d/1JClCLc58rECJ4_FXpU4vp083N-MOQrjR/view?usp=sharing)
+- [|PL| TestRail - Example Online Accounting Test Cases](https://drive.google.com/file/d/1JClCLc58rECJ4_FXpU4vp083N-MOQrjR/view?usp=sharing)
 
 ## Self improvement:
 
