@@ -20,26 +20,31 @@ which helps me work better as a QA Engineer.
 - XML
 - JSON
 - HTML + CSS
-- Git | Github 
+- Git | Github
 
 ## Courses
 
 ### GoIT
 
-**GoIT - Automation Quality Assurance Engineer** 
-  - "In Progress"
-    > JavaScript, Cypress, E2E tests, UI tests, HTTP API tests, Performance testing, CI/CD, BDD testing
+**GoIT - Automation Quality Assurance Engineer**
+
+- "In Progress"
+  > JavaScript, Cypress, E2E tests, UI tests, HTTP API tests, Performance testing, CI/CD, BDD testing
 
 **GoIT - Manual Quality Assurance Engineer**
-  - "Completed!" 
-    > Certificate ID:
-    > [**25435**](https://drive.google.com/file/d/1YSF7cdC86hxwpAVeqwzIRy5GSEhfZyM_/view?usp=sharing)</br>
-    > Jira, Trello, TestRail, Qase, Postman, MySQL, XML, JSON, Git
 
-### W3Schools:
+- "Completed!"
+  > Certificate ID:
+  > [**25435**](https://drive.google.com/file/d/1YSF7cdC86hxwpAVeqwzIRy5GSEhfZyM_/view?usp=sharing)</br>
+  > Jira, Trello, TestRail, Qase, Postman, MySQL, XML, JSON, Git
 
-- JavaScript
-	- "In Progress"
+### W3Schools Patchfinder Skills:
+
+- 0% 'Awaiting' XML
+- 0% 'Awaiting' MySQL
+- 42% 'In Progress' CSS
+- 61% 'In Progress' HTML
+- 89% 'In Progress' JavaScript
 
 ## My Projects & Examples of Work Products
 
@@ -59,7 +64,7 @@ which helps me work better as a QA Engineer.
 
 - [Documentation testing - Listboxer |PL|](https://drive.google.com/file/d/1PprvSo00JEdhbnH-JI3lmyBRr5kXg8Cm/view?usp=sharing)
 
-- [Slack - Smoke testing | Checklist |PL|](https://drive.google.com/file/d/17KsqaMVbRkSUB3Ycgcq5mSEek28pV4J5/view?usp=sharing) 
+- [Slack - Smoke testing | Checklist |PL|](https://drive.google.com/file/d/17KsqaMVbRkSUB3Ycgcq5mSEek28pV4J5/view?usp=sharing)
 
 - [Media Markt Web Application - Smoke testing |PL|](https://drive.google.com/file/d/1UHNS3ZyM4gA_RXm4md-C9ZzCCvCe9aBZ/view?usp=sharing)
 
@@ -69,30 +74,42 @@ which helps me work better as a QA Engineer.
 
 ## Self improvement:
 
-### Languages
-
-Duolingo:
-- Japanase 
-  - "In Progress"
-
 ### Technical Bookshelf
 
-- _"Pasja Testowania Wydanie II rozszerzone"_ - Krzysztof Jadczyk 
-  - "Completed!"
+- _"Pasja Testowania Wydanie II rozszerzone"_ - Krzysztof Jadczyk
+
+  - "Completed! - 100%"
 
 - _"Przygody testera Zigiego"_ - Rafał Kubik
+
+  - "In progress - 7%"
+
+- _"Certyfikowany tester ISTQB®. Poziom podstawowy, Wydanie II"_ - Adam Roman, Lucjan Stapp, Michaël Pilaeten
   - "Planning"
 
-- _"Certyfikowany tester ISTQB®. Poziom podstawowy, Wydanie II"_ - Adam Roman, Lucjan Stapp, Michaël Pilaeten 
-  - "Planning"
+### Webinars
 
-### Knowledge gathering groups
+- [PL] "Testy GUI vs API w Playwright" 2024
 
-- [softwaretesting - Reddit](https://www.reddit.com/r/softwaretesting/)
-- [QualityAssurance - Reddit](https://www.reddit.com/r/QualityAssurance/)
+  - [jaktestować.pl](https://jaktestowac.pl/)
+
+- [PL/EN] CodeFrenzy 2024 - interdyscyplinarna konferencja IT online
+
+  - [CodeFrenzy](https://codefrenzy.pl/)
+
+- [PL/EN] Women on Stage IWD Conference 2024
+  - [Women on Stage 2024](https://www.womenonstage.net/iwd-2024)
 
 ### Followed blogs
 
 - [Global App Testing](https://www.globalapptesting.com/blog)
 - [testerzy.pl](https://testerzy.pl/)
 - [niebezpiecznik.pl](https://niebezpiecznik.pl/category/all/)
+
+### Languages
+
+- English **B1/B2**
+
+- Japanase **Total begginer > N5**
+
+- Polish **Native**
