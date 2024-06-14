@@ -40,11 +40,16 @@ which helps me work better as a QA Engineer.
 
 ### W3Schools Patchfinder Skills:
 
-- 0% 'Awaiting' XML
-- 0% 'Awaiting' MySQL
-- 42% 'In Progress' CSS
-- 61% 'In Progress' HTML
-- 89% 'In Progress' JavaScript
+- XML
+	> 86%
+- MySQL
+	> 53% 'In progress'
+- CSS
+	> 42%
+- HTML
+	> 89%
+- JavaScript
+	> 89%
 
 ## My Projects & Examples of Work Products
 
