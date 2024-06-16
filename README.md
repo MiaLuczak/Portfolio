@@ -43,7 +43,7 @@ which helps me work better as a QA Engineer.
 - XML
 	> 86%
 - MySQL
-	> 53% 'In progress'
+	> 88%
 - CSS
 	> 42%
 - HTML
