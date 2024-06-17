@@ -1,6 +1,6 @@
-# <div style="text-align: center">👾Portfolio👾</div>
+# <div align='center'>👾Portfolio👾</div>
 
-## <div style="text-align: center">About me</div>
+## <div align='center'>About me</div>
 
 I am a motivated woman, constantly looking for a new way of selfimprovement in the Quality Assurance field to increase the live
 comfort of others by improving the quality level of apps and other developing software. I am always happy to work alongside and meet new and full passion people.
@@ -9,7 +9,7 @@ which helps me work better as a QA Engineer.
 
 Feel free to check out [my resume](https://drive.google.com/file/d/1bMTUV6jLFu7zVNd3j-O39Ja3mNe8oKx0/view?usp=sharing)
 
-## <div style="text-align: center">🌱My Tech Stack🐛</div>
+## <div align='center'>🌱My Tech Stack🐛</div>
 
 | Defect and test management tools | Version Control System | Data interchange formats |  Frontend  |   Backend   |
 | :------------------------------: | :--------------------: | :----------------------: | :--------: | :---------: |
@@ -18,7 +18,7 @@ Feel free to check out [my resume](https://drive.google.com/file/d/1bMTUV6jLFu7z
 |              Trello              |                        |                          | JavaScript | API Testing |
 |               Qase               |                        |                          |            |             |
 
-## <div style="text-align: center">Courses</div>
+## <div align='center'>Courses</div>
 
 ### GoIT
 
@@ -49,7 +49,7 @@ Plans:
 | :--------: | :-----: | :-: | :-----------: |
 |    N/A     |   N/A   | N/A |      N/A      |
 
-## <div style="text-align: center">𖢥 My Projects & Examples of Work Products 𖢥</div>
+## <div align='center'>𖢥 My Projects & Examples of Work Products 𖢥</div>
 
 ### Projects
 
@@ -80,7 +80,7 @@ Plans:
 
 - [|PL| TestRail - Example Online Accounting Test Cases](https://drive.google.com/file/d/1JClCLc58rECJ4_FXpU4vp083N-MOQrjR/view?usp=sharing)
 
-## <div style="text-align: center">Self improvement:</div>
+## <div align='center'>Self improvement:</div>
 
 ### Webinars
 
