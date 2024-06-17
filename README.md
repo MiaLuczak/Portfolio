@@ -64,7 +64,7 @@ Plans:
   > Successfully reported
 
 - [|PL| Samsung Web Store - Bug Report](https://drive.google.com/file/d/1XWWcqAtT4UEAA0DBMUl0HA7EFT78KHE2/view?usp=sharing)
-- > Successfully reported
+  > Successfully reported
 
 ### Practice
 
