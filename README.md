@@ -103,12 +103,6 @@ Plans:
 - _"Certyfikowany tester ISTQB®. Poziom podstawowy, Wydanie II"_ - Adam Roman, Lucjan Stapp, Michaël Pilaeten
   > "Planning"
 
-### Followed blogs
-
-- [Global App Testing](https://www.globalapptesting.com/blog)
-- [testerzy.pl](https://testerzy.pl/)
-- [niebezpiecznik.pl](https://niebezpiecznik.pl/category/all/)
-
 ### Languages
 
 - English **B1/B2**
