@@ -1,63 +1,62 @@
-# <div align='center'>👾Portfolio👾</div>
+# <div align='center'>Portfolio</div>
 
 ## <div align='center'>About me</div>
 
-I am a motivated woman, constantly looking for a new way of selfimprovement in the Quality Assurance field to increase the live
-comfort of others by improving the quality level of apps and other developing software. I am always happy to work alongside and meet new and full passion people.
-I have diverse interests and passions, and I am always willing to explore new ones further,
-which helps me work better as a QA Engineer.
+I am a student of computer science at the University of Kalisz. Completing
+QA courses allowed me to discover my passion for a wide spectrum
+of computer technology, so I'm taking up studies and developing
+further in this field
 
-Feel free to check out [my resume](https://drive.google.com/file/d/1bMTUV6jLFu7zVNd3j-O39Ja3mNe8oKx0/view?usp=sharing)
+Feel free to check out [my resume](https://drive.google.com/file/d/1Poi8cMGhoTf_1FqT-6K-8ql_KQMRDU4J/view?usp=sharing)
 
 ## <div align='center'>🌱My Tech Stack🐛</div>
 
-| Defect and test management tools | Version Control System | Data interchange formats |  Frontend  |   Backend   |
-| :------------------------------: | :--------------------: | :----------------------: | :--------: | :---------: |
-|               Jira               |          Git           |           JSON           |    HTML    |    MySQL    |
-|             TestRail             |         GitHub         |           XML            |    CSS     |   Postman   |
-|              Trello              |                        |                          | JavaScript | API Testing |
-|               Qase               |                        |                          |            |             |
+<div align='center'>
 
-## <div align='center'>Courses</div>
+| Programming Languages | Frontend |   Backend   |
+| :-------------------: | :------: | :---------: |
+|         Java          |   HTML   |    MySQL    |
+|      JavaScript       |   CSS    |   Postman   |
+|                       |          | API Testing |
+|                       |          |             |
 
-### GoIT
+| Defect and test management tools | Version Control System | Data interchange formats |
+| :------------------------------: | :--------------------: | :----------------------: |
+|               Jira               |          Git           |           JSON           |
+|             TestRail             |         GitHub         |           XML            |
+|              Trello              |                        |                          |
+|               Qase               |                        |                          |
 
-GoIT - **Automation Quality Assurance Engineer**
+</div>
 
-- "In Progress"<br>
-  Certificate ID: \_ \_ \_ \_ \_
-  > JavaScript, Cypress, E2E tests, UI tests, HTTP API tests, Performance testing, CI/CD, BDD testing
+## <div align='center'>Courses and Certificates</div>
 
-<br>
-
-GoIT - **Manual Quality Assurance Engineer**
+### GoIT - **Automation Quality Assurance Engineer**
 
 - "Completed!"<br>
   Certificate ID:
-  [**25435**](https://drive.google.com/file/d/1YSF7cdC86hxwpAVeqwzIRy5GSEhfZyM_/view?usp=sharing)</br>
-  > Jira, Trello, TestRail, Qase, Postman, MySQL, XML, JSON, Git
+  [**29778**](https://drive.google.com/file/d/1UNXWSotQx3HKjB47r6c61Ud0J-mzEvXX/view?usp=sharing)
+  > JavaScript | Cypress | E2E tests | UI tests | HTTP API tests | Performance testing | CI/CD | BDD testing
 
-### W3Schools Pathfinder skill quiz results:
+<br>
 
-| JavaScript | HTML | CSS | MySQL | XML |
-| :--------: | :--: | :-: | :---: | :-: |
-|    89%     | 89%  | 89% |  88%  | 86% |
+### GoIT - **Manual Quality Assurance Engineer**
 
-Plans:
+- "Completed!"<br>
+  Certificate ID:
+  [**25435**](https://drive.google.com/file/d/1I9XUeNH4LwAf7frD7_UchTNqxnh1L2qj/view?usp=drive_link)</br>
+  > Jira | Trello | TestRail | Qase | Postman | MySQL | XML | JSON | Git
 
-| TypeScript | Node.JS | Git | CyberSecurity |
-| :--------: | :-----: | :-: | :-----------: |
-|    N/A     |   N/A   | N/A |      N/A      |
-
-## <div align='center'>𖢥 My Projects & Examples of Work Products 𖢥</div>
+## <div align='center'>𖢥 My Projects & Examples of Work Products [QA] 𖢥</div>
 
 ### Projects
 
-- [|EN| Project_Kapu$ta_GoIT](https://github.com/MioLuczak/Project_Kapusta)
+- [|EN| Project Kapu$ta](https://github.com/MioLuczak/Project_Kapusta) - GoIT Course project
 
+  > My contribution: \
   > Login page tests | Documentation - Static review | Team Leader Support
 
-### Bugs
+### Bugs, that I found
 
 - [|PL| Discord - Bug Report](https://drive.google.com/file/d/1XvZAP7MohiaUTo_Bg_8UtlzFPbtCZQTo/view?usp=sharing)
 
@@ -80,33 +79,8 @@ Plans:
 
 - [|PL| TestRail - Example Online Accounting Test Cases](https://drive.google.com/file/d/1JClCLc58rECJ4_FXpU4vp083N-MOQrjR/view?usp=sharing)
 
-## <div align='center'>Self improvement:</div>
-
-### Webinars
-
-- [PL] "Testy GUI vs API w Playwright" 2024 | [jaktestować.pl](https://jaktestowac.pl/)
-
-- [PL/EN] CodeFrenzy 2024 - interdyscyplinarna konferencja IT online | [CodeFrenzy](https://codefrenzy.pl/)
-
-- [PL/EN] Women on Stage IWD Conference 2024 | [Women on Stage 2024](https://www.womenonstage.net/iwd-2024)
-
-### Technical Bookshelf
-
-- _"Pasja Testowania Wydanie II rozszerzone"_ - Krzysztof Jadczyk
-
-  > "Completed! - 100%"
-
-- _"Przygody testera Zigiego"_ - Rafał Kubik
-
-  > "In progress - 7%"
-
-- _"Certyfikowany tester ISTQB®. Poziom podstawowy, Wydanie II"_ - Adam Roman, Lucjan Stapp, Michaël Pilaeten
-  > "Planning"
-
-### Languages
+## <div align='center'>Languages:</div>
 
 - English **B1/B2**
-
-- Japanase **Total begginer > N5**
 
 - Polish **Native**
