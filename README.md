@@ -51,7 +51,7 @@ Feel free to check out [my resume](https://drive.google.com/file/d/1Poi8cMGhoTf_
 
 ### Projects
 
-- [|EN| Project Kapu$ta](https://github.com/MioLuczak/Project_Kapusta) - GoIT Course project
+- [|EN| Project Kapu$ta](https://github.com/MiaLuczak/Project_Kapusta) - GoIT Course project
 
   > My contribution: \
   > Login page tests | Documentation - Static review | Team Leader Support
